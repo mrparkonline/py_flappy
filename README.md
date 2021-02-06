@@ -22,4 +22,5 @@ __Regular__
 - _an image can be displayed to a regular surface, which then has to be placed onto the display surface_
 
 ### Log
+- 2021.02.05 : Minimal Viable Product ready ... did some personal adjustments
 - 2021.02.04 : Started the repo
